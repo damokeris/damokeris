@@ -1,4 +1,4 @@
-### Hi I'm damokeris 👋
+<h3 style="text-align: center;">Hi I'm damokeris 👋</h3>
 
 <!-- dynamic typing effect 动态打字效果 -->
 <a href="https://blog.sunguoqi.com/">
@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## My Most Used Languages😉
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damokeris&layout=compact)](https://github.com/damokeris/github-readme-stats)
