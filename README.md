@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm damokeris 👋
+
+<!-- dynamic typing effect 动态打字效果 -->
+<a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=735&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=27" />
+</a>
 
 <!--
 **damokeris/damokeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Most Used Languages😉
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damokeris&layout=compact)](https://github.com/damokeris/github-readme-stats)
